@@ -1,3 +1,4 @@
+![](https://i.ibb.co/wrK2B3q/download.png)
 ## API Documentation
 
 ### API Endpoints
@@ -18,7 +19,7 @@
 
 Example Object:
 
-![alt text](https://github.com/GDSC-NMIMS-MPSTME-Mumbai/App-Dev-Recruitment-API/blob/gh-pages/data_snippet.png)
+![data-snippet](https://i.ibb.co/BrK07y8/data-snippet.png)
 
 2. Locations: [https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/locations.json](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/locations.json)
 - This endpoint return a list of Json Object, which represent locations and contain the following fields:
@@ -28,7 +29,7 @@ Example Object:
 
 Example Object:
 
-![alt text](https://github.com/GDSC-NMIMS-MPSTME-Mumbai/App-Dev-Recruitment-API/blob/gh-pages/location_snippet.png)
+![location_snippet](https://i.ibb.co/PZtBS6q/location-snippet.png)
 
 
 **You can use the mentioned URLs to access the API. These endpoints only support GET requests.**
