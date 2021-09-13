@@ -1,0 +1,1327 @@
+﻿[
+    {
+        "locationId": "1",
+        "town": "EWR",
+        "zone": "Newark Airport"
+    },
+    {
+        "locationId": "2",
+        "town": "Queens",
+        "zone": "Jamaica Bay"
+    },
+    {
+        "locationId": "3",
+        "town": "Bronx",
+        "zone": "Allerton/Pelham Gardens"
+    },
+    {
+        "locationId": "4",
+        "town": "Manhattan",
+        "zone": "Alphabet City"
+    },
+    {
+        "locationId": "5",
+        "town": "Staten Island",
+        "zone": "Arden Heights"
+    },
+    {
+        "locationId": "6",
+        "town": "Staten Island",
+        "zone": "Arrochar/Fort Wadsworth"
+    },
+    {
+        "locationId": "7",
+        "town": "Queens",
+        "zone": "Astoria"
+    },
+    {
+        "locationId": "8",
+        "town": "Queens",
+        "zone": "Astoria Park"
+    },
+    {
+        "locationId": "9",
+        "town": "Queens",
+        "zone": "Auburndale"
+    },
+    {
+        "locationId": "10",
+        "town": "Queens",
+        "zone": "Baisley Park"
+    },
+    {
+        "locationId": "11",
+        "town": "Brooklyn",
+        "zone": "Bath Beach"
+    },
+    {
+        "locationId": "12",
+        "town": "Manhattan",
+        "zone": "Battery Park"
+    },
+    {
+        "locationId": "13",
+        "town": "Manhattan",
+        "zone": "Battery Park City"
+    },
+    {
+        "locationId": "14",
+        "town": "Brooklyn",
+        "zone": "Bay Ridge"
+    },
+    {
+        "locationId": "15",
+        "town": "Queens",
+        "zone": "Bay Terrace/Fort Totten"
+    },
+    {
+        "locationId": "16",
+        "town": "Queens",
+        "zone": "Bayside"
+    },
+    {
+        "locationId": "17",
+        "town": "Brooklyn",
+        "zone": "Bedford"
+    },
+    {
+        "locationId": "18",
+        "town": "Bronx",
+        "zone": "Bedford Park"
+    },
+    {
+        "locationId": "19",
+        "town": "Queens",
+        "zone": "Bellerose"
+    },
+    {
+        "locationId": "20",
+        "town": "Bronx",
+        "zone": "Belmont"
+    },
+    {
+        "locationId": "21",
+        "town": "Brooklyn",
+        "zone": "Bensonhurst East"
+    },
+    {
+        "locationId": "22",
+        "town": "Brooklyn",
+        "zone": "Bensonhurst West"
+    },
+    {
+        "locationId": "23",
+        "town": "Staten Island",
+        "zone": "Bloomfield/Emerson Hill"
+    },
+    {
+        "locationId": "24",
+        "town": "Manhattan",
+        "zone": "Bloomingdale"
+    },
+    {
+        "locationId": "25",
+        "town": "Brooklyn",
+        "zone": "Boerum Hill"
+    },
+    {
+        "locationId": "26",
+        "town": "Brooklyn",
+        "zone": "Borough Park"
+    },
+    {
+        "locationId": "27",
+        "town": "Queens",
+        "zone": "Breezy Point/Fort Tilden/Riis Beach"
+    },
+    {
+        "locationId": "28",
+        "town": "Queens",
+        "zone": "Briarwood/Jamaica Hills"
+    },
+    {
+        "locationId": "29",
+        "town": "Brooklyn",
+        "zone": "Brighton Beach"
+    },
+    {
+        "locationId": "30",
+        "town": "Queens",
+        "zone": "Broad Channel"
+    },
+    {
+        "locationId": "31",
+        "town": "Bronx",
+        "zone": "Bronx Park"
+    },
+    {
+        "locationId": "32",
+        "town": "Bronx",
+        "zone": "Bronxdale"
+    },
+    {
+        "locationId": "33",
+        "town": "Brooklyn",
+        "zone": "Brooklyn Heights"
+    },
+    {
+        "locationId": "34",
+        "town": "Brooklyn",
+        "zone": "Brooklyn Navy Yard"
+    },
+    {
+        "locationId": "35",
+        "town": "Brooklyn",
+        "zone": "Brownsville"
+    },
+    {
+        "locationId": "36",
+        "town": "Brooklyn",
+        "zone": "Bushwick North"
+    },
+    {
+        "locationId": "37",
+        "town": "Brooklyn",
+        "zone": "Bushwick South"
+    },
+    {
+        "locationId": "38",
+        "town": "Queens",
+        "zone": "Cambria Heights"
+    },
+    {
+        "locationId": "39",
+        "town": "Brooklyn",
+        "zone": "Canarsie"
+    },
+    {
+        "locationId": "40",
+        "town": "Brooklyn",
+        "zone": "Carroll Gardens"
+    },
+    {
+        "locationId": "41",
+        "town": "Manhattan",
+        "zone": "Central Harlem"
+    },
+    {
+        "locationId": "42",
+        "town": "Manhattan",
+        "zone": "Central Harlem North"
+    },
+    {
+        "locationId": "43",
+        "town": "Manhattan",
+        "zone": "Central Park"
+    },
+    {
+        "locationId": "44",
+        "town": "Staten Island",
+        "zone": "Charleston/Tottenville"
+    },
+    {
+        "locationId": "45",
+        "town": "Manhattan",
+        "zone": "Chinatown"
+    },
+    {
+        "locationId": "46",
+        "town": "Bronx",
+        "zone": "City Island"
+    },
+    {
+        "locationId": "47",
+        "town": "Bronx",
+        "zone": "Claremont/Bathgate"
+    },
+    {
+        "locationId": "48",
+        "town": "Manhattan",
+        "zone": "Clinton East"
+    },
+    {
+        "locationId": "49",
+        "town": "Brooklyn",
+        "zone": "Clinton Hill"
+    },
+    {
+        "locationId": "50",
+        "town": "Manhattan",
+        "zone": "Clinton West"
+    },
+    {
+        "locationId": "51",
+        "town": "Bronx",
+        "zone": "Co-Op City"
+    },
+    {
+        "locationId": "52",
+        "town": "Brooklyn",
+        "zone": "Cobble Hill"
+    },
+    {
+        "locationId": "53",
+        "town": "Queens",
+        "zone": "College Point"
+    },
+    {
+        "locationId": "54",
+        "town": "Brooklyn",
+        "zone": "Columbia Street"
+    },
+    {
+        "locationId": "55",
+        "town": "Brooklyn",
+        "zone": "Coney Island"
+    },
+    {
+        "locationId": "56",
+        "town": "Queens",
+        "zone": "Corona"
+    },
+    {
+        "locationId": "57",
+        "town": "Queens",
+        "zone": "Corona"
+    },
+    {
+        "locationId": "58",
+        "town": "Bronx",
+        "zone": "Country Club"
+    },
+    {
+        "locationId": "59",
+        "town": "Bronx",
+        "zone": "Crotona Park"
+    },
+    {
+        "locationId": "60",
+        "town": "Bronx",
+        "zone": "Crotona Park East"
+    },
+    {
+        "locationId": "61",
+        "town": "Brooklyn",
+        "zone": "Crown Heights North"
+    },
+    {
+        "locationId": "62",
+        "town": "Brooklyn",
+        "zone": "Crown Heights South"
+    },
+    {
+        "locationId": "63",
+        "town": "Brooklyn",
+        "zone": "Cypress Hills"
+    },
+    {
+        "locationId": "64",
+        "town": "Queens",
+        "zone": "Douglaston"
+    },
+    {
+        "locationId": "65",
+        "town": "Brooklyn",
+        "zone": "Downtown Brooklyn/MetroTech"
+    },
+    {
+        "locationId": "66",
+        "town": "Brooklyn",
+        "zone": "DUMBO/Vinegar Hill"
+    },
+    {
+        "locationId": "67",
+        "town": "Brooklyn",
+        "zone": "Dyker Heights"
+    },
+    {
+        "locationId": "68",
+        "town": "Manhattan",
+        "zone": "East Chelsea"
+    },
+    {
+        "locationId": "69",
+        "town": "Bronx",
+        "zone": "East Concourse/Concourse Village"
+    },
+    {
+        "locationId": "70",
+        "town": "Queens",
+        "zone": "East Elmhurst"
+    },
+    {
+        "locationId": "71",
+        "town": "Brooklyn",
+        "zone": "East Flatbush/Farragut"
+    },
+    {
+        "locationId": "72",
+        "town": "Brooklyn",
+        "zone": "East Flatbush/Remsen Village"
+    },
+    {
+        "locationId": "73",
+        "town": "Queens",
+        "zone": "East Flushing"
+    },
+    {
+        "locationId": "74",
+        "town": "Manhattan",
+        "zone": "East Harlem North"
+    },
+    {
+        "locationId": "75",
+        "town": "Manhattan",
+        "zone": "East Harlem South"
+    },
+    {
+        "locationId": "76",
+        "town": "Brooklyn",
+        "zone": "East New York"
+    },
+    {
+        "locationId": "77",
+        "town": "Brooklyn",
+        "zone": "East New York/Pennsylvania Avenue"
+    },
+    {
+        "locationId": "78",
+        "town": "Bronx",
+        "zone": "East Tremont"
+    },
+    {
+        "locationId": "79",
+        "town": "Manhattan",
+        "zone": "East Village"
+    },
+    {
+        "locationId": "80",
+        "town": "Brooklyn",
+        "zone": "East Williamsburg"
+    },
+    {
+        "locationId": "81",
+        "town": "Bronx",
+        "zone": "Eastchester"
+    },
+    {
+        "locationId": "82",
+        "town": "Queens",
+        "zone": "Elmhurst"
+    },
+    {
+        "locationId": "83",
+        "town": "Queens",
+        "zone": "Elmhurst/Maspeth"
+    },
+    {
+        "locationId": "84",
+        "town": "Staten Island",
+        "zone": "Eltingville/Annadale/Prince's Bay"
+    },
+    {
+        "locationId": "85",
+        "town": "Brooklyn",
+        "zone": "Erasmus"
+    },
+    {
+        "locationId": "86",
+        "town": "Queens",
+        "zone": "Far Rockaway"
+    },
+    {
+        "locationId": "87",
+        "town": "Manhattan",
+        "zone": "Financial District North"
+    },
+    {
+        "locationId": "88",
+        "town": "Manhattan",
+        "zone": "Financial District South"
+    },
+    {
+        "locationId": "89",
+        "town": "Brooklyn",
+        "zone": "Flatbush/Ditmas Park"
+    },
+    {
+        "locationId": "90",
+        "town": "Manhattan",
+        "zone": "Flatiron"
+    },
+    {
+        "locationId": "91",
+        "town": "Brooklyn",
+        "zone": "Flatlands"
+    },
+    {
+        "locationId": "92",
+        "town": "Queens",
+        "zone": "Flushing"
+    },
+    {
+        "locationId": "93",
+        "town": "Queens",
+        "zone": "Flushing Meadows-Corona Park"
+    },
+    {
+        "locationId": "94",
+        "town": "Bronx",
+        "zone": "Fordham South"
+    },
+    {
+        "locationId": "95",
+        "town": "Queens",
+        "zone": "Forest Hills"
+    },
+    {
+        "locationId": "96",
+        "town": "Queens",
+        "zone": "Forest Park/Highland Park"
+    },
+    {
+        "locationId": "97",
+        "town": "Brooklyn",
+        "zone": "Fort Greene"
+    },
+    {
+        "locationId": "98",
+        "town": "Queens",
+        "zone": "Fresh Meadows"
+    },
+    {
+        "locationId": "99",
+        "town": "Staten Island",
+        "zone": "Freshkills Park"
+    },
+    {
+        "locationId": "100",
+        "town": "Manhattan",
+        "zone": "Garment District"
+    },
+    {
+        "locationId": "101",
+        "town": "Queens",
+        "zone": "Glen Oaks"
+    },
+    {
+        "locationId": "102",
+        "town": "Queens",
+        "zone": "Glendale"
+    },
+    {
+        "locationId": "103",
+        "town": "Manhattan",
+        "zone": "Governor's Island/Ellis Island/Liberty Island"
+    },
+    {
+        "locationId": "104",
+        "town": "Manhattan",
+        "zone": "Governor's Island/Ellis Island/Liberty Island"
+    },
+    {
+        "locationId": "105",
+        "town": "Manhattan",
+        "zone": "Governor's Island/Ellis Island/Liberty Island"
+    },
+    {
+        "locationId": "106",
+        "town": "Brooklyn",
+        "zone": "Gowanus"
+    },
+    {
+        "locationId": "107",
+        "town": "Manhattan",
+        "zone": "Gramercy"
+    },
+    {
+        "locationId": "108",
+        "town": "Brooklyn",
+        "zone": "Gravesend"
+    },
+    {
+        "locationId": "109",
+        "town": "Staten Island",
+        "zone": "Great Kills"
+    },
+    {
+        "locationId": "110",
+        "town": "Staten Island",
+        "zone": "Great Kills Park"
+    },
+    {
+        "locationId": "111",
+        "town": "Brooklyn",
+        "zone": "Green-Wood Cemetery"
+    },
+    {
+        "locationId": "112",
+        "town": "Brooklyn",
+        "zone": "Greenpoint"
+    },
+    {
+        "locationId": "113",
+        "town": "Manhattan",
+        "zone": "Greenwich Village North"
+    },
+    {
+        "locationId": "114",
+        "town": "Manhattan",
+        "zone": "Greenwich Village South"
+    },
+    {
+        "locationId": "115",
+        "town": "Staten Island",
+        "zone": "Grymes Hill/Clifton"
+    },
+    {
+        "locationId": "116",
+        "town": "Manhattan",
+        "zone": "Hamilton Heights"
+    },
+    {
+        "locationId": "117",
+        "town": "Queens",
+        "zone": "Hammels/Arverne"
+    },
+    {
+        "locationId": "118",
+        "town": "Staten Island",
+        "zone": "Heartland Village/Todt Hill"
+    },
+    {
+        "locationId": "119",
+        "town": "Bronx",
+        "zone": "Highbridge"
+    },
+    {
+        "locationId": "120",
+        "town": "Manhattan",
+        "zone": "Highbridge Park"
+    },
+    {
+        "locationId": "121",
+        "town": "Queens",
+        "zone": "Hillcrest/Pomonok"
+    },
+    {
+        "locationId": "122",
+        "town": "Queens",
+        "zone": "Hollis"
+    },
+    {
+        "locationId": "123",
+        "town": "Brooklyn",
+        "zone": "Homecrest"
+    },
+    {
+        "locationId": "124",
+        "town": "Queens",
+        "zone": "Howard Beach"
+    },
+    {
+        "locationId": "125",
+        "town": "Manhattan",
+        "zone": "Hudson Sq"
+    },
+    {
+        "locationId": "126",
+        "town": "Bronx",
+        "zone": "Hunts Point"
+    },
+    {
+        "locationId": "127",
+        "town": "Manhattan",
+        "zone": "Inwood"
+    },
+    {
+        "locationId": "128",
+        "town": "Manhattan",
+        "zone": "Inwood Hill Park"
+    },
+    {
+        "locationId": "129",
+        "town": "Queens",
+        "zone": "Jackson Heights"
+    },
+    {
+        "locationId": "130",
+        "town": "Queens",
+        "zone": "Jamaica"
+    },
+    {
+        "locationId": "131",
+        "town": "Queens",
+        "zone": "Jamaica Estates"
+    },
+    {
+        "locationId": "132",
+        "town": "Queens",
+        "zone": "JFK Airport"
+    },
+    {
+        "locationId": "133",
+        "town": "Brooklyn",
+        "zone": "Kensington"
+    },
+    {
+        "locationId": "134",
+        "town": "Queens",
+        "zone": "Kew Gardens"
+    },
+    {
+        "locationId": "135",
+        "town": "Queens",
+        "zone": "Kew Gardens Hills"
+    },
+    {
+        "locationId": "136",
+        "town": "Bronx",
+        "zone": "Kingsbridge Heights"
+    },
+    {
+        "locationId": "137",
+        "town": "Manhattan",
+        "zone": "Kips Bay"
+    },
+    {
+        "locationId": "138",
+        "town": "Queens",
+        "zone": "LaGuardia Airport"
+    },
+    {
+        "locationId": "139",
+        "town": "Queens",
+        "zone": "Laurelton"
+    },
+    {
+        "locationId": "140",
+        "town": "Manhattan",
+        "zone": "Lenox Hill East"
+    },
+    {
+        "locationId": "141",
+        "town": "Manhattan",
+        "zone": "Lenox Hill West"
+    },
+    {
+        "locationId": "142",
+        "town": "Manhattan",
+        "zone": "Lincoln Square East"
+    },
+    {
+        "locationId": "143",
+        "town": "Manhattan",
+        "zone": "Lincoln Square West"
+    },
+    {
+        "locationId": "144",
+        "town": "Manhattan",
+        "zone": "Little Italy/NoLiTa"
+    },
+    {
+        "locationId": "145",
+        "town": "Queens",
+        "zone": "Long Island City/Hunters Point"
+    },
+    {
+        "locationId": "146",
+        "town": "Queens",
+        "zone": "Long Island City/Queens Plaza"
+    },
+    {
+        "locationId": "147",
+        "town": "Bronx",
+        "zone": "Longwood"
+    },
+    {
+        "locationId": "148",
+        "town": "Manhattan",
+        "zone": "Lower East Side"
+    },
+    {
+        "locationId": "149",
+        "town": "Brooklyn",
+        "zone": "Madison"
+    },
+    {
+        "locationId": "150",
+        "town": "Brooklyn",
+        "zone": "Manhattan Beach"
+    },
+    {
+        "locationId": "151",
+        "town": "Manhattan",
+        "zone": "Manhattan Valley"
+    },
+    {
+        "locationId": "152",
+        "town": "Manhattan",
+        "zone": "Manhattanville"
+    },
+    {
+        "locationId": "153",
+        "town": "Manhattan",
+        "zone": "Marble Hill"
+    },
+    {
+        "locationId": "154",
+        "town": "Brooklyn",
+        "zone": "Marine Park/Floyd Bennett Field"
+    },
+    {
+        "locationId": "155",
+        "town": "Brooklyn",
+        "zone": "Marine Park/Mill Basin"
+    },
+    {
+        "locationId": "156",
+        "town": "Staten Island",
+        "zone": "Mariners Harbor"
+    },
+    {
+        "locationId": "157",
+        "town": "Queens",
+        "zone": "Maspeth"
+    },
+    {
+        "locationId": "158",
+        "town": "Manhattan",
+        "zone": "Meatpacking/West Village West"
+    },
+    {
+        "locationId": "159",
+        "town": "Bronx",
+        "zone": "Melrose South"
+    },
+    {
+        "locationId": "160",
+        "town": "Queens",
+        "zone": "Middle Village"
+    },
+    {
+        "locationId": "161",
+        "town": "Manhattan",
+        "zone": "Midtown Center"
+    },
+    {
+        "locationId": "162",
+        "town": "Manhattan",
+        "zone": "Midtown East"
+    },
+    {
+        "locationId": "163",
+        "town": "Manhattan",
+        "zone": "Midtown North"
+    },
+    {
+        "locationId": "164",
+        "town": "Manhattan",
+        "zone": "Midtown South"
+    },
+    {
+        "locationId": "165",
+        "town": "Brooklyn",
+        "zone": "Midwood"
+    },
+    {
+        "locationId": "166",
+        "town": "Manhattan",
+        "zone": "Morningside Heights"
+    },
+    {
+        "locationId": "167",
+        "town": "Bronx",
+        "zone": "Morrisania/Melrose"
+    },
+    {
+        "locationId": "168",
+        "town": "Bronx",
+        "zone": "Mott Haven/Port Morris"
+    },
+    {
+        "locationId": "169",
+        "town": "Bronx",
+        "zone": "Mount Hope"
+    },
+    {
+        "locationId": "170",
+        "town": "Manhattan",
+        "zone": "Murray Hill"
+    },
+    {
+        "locationId": "171",
+        "town": "Queens",
+        "zone": "Murray Hill-Queens"
+    },
+    {
+        "locationId": "172",
+        "town": "Staten Island",
+        "zone": "New Dorp/Midland Beach"
+    },
+    {
+        "locationId": "173",
+        "town": "Queens",
+        "zone": "North Corona"
+    },
+    {
+        "locationId": "174",
+        "town": "Bronx",
+        "zone": "Norwood"
+    },
+    {
+        "locationId": "175",
+        "town": "Queens",
+        "zone": "Oakland Gardens"
+    },
+    {
+        "locationId": "176",
+        "town": "Staten Island",
+        "zone": "Oakwood"
+    },
+    {
+        "locationId": "177",
+        "town": "Brooklyn",
+        "zone": "Ocean Hill"
+    },
+    {
+        "locationId": "178",
+        "town": "Brooklyn",
+        "zone": "Ocean Parkway South"
+    },
+    {
+        "locationId": "179",
+        "town": "Queens",
+        "zone": "Old Astoria"
+    },
+    {
+        "locationId": "180",
+        "town": "Queens",
+        "zone": "Ozone Park"
+    },
+    {
+        "locationId": "181",
+        "town": "Brooklyn",
+        "zone": "Park Slope"
+    },
+    {
+        "locationId": "182",
+        "town": "Bronx",
+        "zone": "Parkchester"
+    },
+    {
+        "locationId": "183",
+        "town": "Bronx",
+        "zone": "Pelham Bay"
+    },
+    {
+        "locationId": "184",
+        "town": "Bronx",
+        "zone": "Pelham Bay Park"
+    },
+    {
+        "locationId": "185",
+        "town": "Bronx",
+        "zone": "Pelham Parkway"
+    },
+    {
+        "locationId": "186",
+        "town": "Manhattan",
+        "zone": "Penn Station/Madison Sq West"
+    },
+    {
+        "locationId": "187",
+        "town": "Staten Island",
+        "zone": "Port Richmond"
+    },
+    {
+        "locationId": "188",
+        "town": "Brooklyn",
+        "zone": "Prospect-Lefferts Gardens"
+    },
+    {
+        "locationId": "189",
+        "town": "Brooklyn",
+        "zone": "Prospect Heights"
+    },
+    {
+        "locationId": "190",
+        "town": "Brooklyn",
+        "zone": "Prospect Park"
+    },
+    {
+        "locationId": "191",
+        "town": "Queens",
+        "zone": "Queens Village"
+    },
+    {
+        "locationId": "192",
+        "town": "Queens",
+        "zone": "Queensboro Hill"
+    },
+    {
+        "locationId": "193",
+        "town": "Queens",
+        "zone": "Queensbridge/Ravenswood"
+    },
+    {
+        "locationId": "194",
+        "town": "Manhattan",
+        "zone": "Randalls Island"
+    },
+    {
+        "locationId": "195",
+        "town": "Brooklyn",
+        "zone": "Red Hook"
+    },
+    {
+        "locationId": "196",
+        "town": "Queens",
+        "zone": "Rego Park"
+    },
+    {
+        "locationId": "197",
+        "town": "Queens",
+        "zone": "Richmond Hill"
+    },
+    {
+        "locationId": "198",
+        "town": "Queens",
+        "zone": "Ridgewood"
+    },
+    {
+        "locationId": "199",
+        "town": "Bronx",
+        "zone": "Rikers Island"
+    },
+    {
+        "locationId": "200",
+        "town": "Bronx",
+        "zone": "Riverdale/North Riverdale/Fieldston"
+    },
+    {
+        "locationId": "201",
+        "town": "Queens",
+        "zone": "Rockaway Park"
+    },
+    {
+        "locationId": "202",
+        "town": "Manhattan",
+        "zone": "Roosevelt Island"
+    },
+    {
+        "locationId": "203",
+        "town": "Queens",
+        "zone": "Rosedale"
+    },
+    {
+        "locationId": "204",
+        "town": "Staten Island",
+        "zone": "Rossville/Woodrow"
+    },
+    {
+        "locationId": "205",
+        "town": "Queens",
+        "zone": "Saint Albans"
+    },
+    {
+        "locationId": "206",
+        "town": "Staten Island",
+        "zone": "Saint George/New Brighton"
+    },
+    {
+        "locationId": "207",
+        "town": "Queens",
+        "zone": "Saint Michaels Cemetery/Woodside"
+    },
+    {
+        "locationId": "208",
+        "town": "Bronx",
+        "zone": "Schuylerville/Edgewater Park"
+    },
+    {
+        "locationId": "209",
+        "town": "Manhattan",
+        "zone": "Seaport"
+    },
+    {
+        "locationId": "210",
+        "town": "Brooklyn",
+        "zone": "Sheepshead Bay"
+    },
+    {
+        "locationId": "211",
+        "town": "Manhattan",
+        "zone": "SoHo"
+    },
+    {
+        "locationId": "212",
+        "town": "Bronx",
+        "zone": "Soundview/Bruckner"
+    },
+    {
+        "locationId": "213",
+        "town": "Bronx",
+        "zone": "Soundview/Castle Hill"
+    },
+    {
+        "locationId": "214",
+        "town": "Staten Island",
+        "zone": "South Beach/Dongan Hills"
+    },
+    {
+        "locationId": "215",
+        "town": "Queens",
+        "zone": "South Jamaica"
+    },
+    {
+        "locationId": "216",
+        "town": "Queens",
+        "zone": "South Ozone Park"
+    },
+    {
+        "locationId": "217",
+        "town": "Brooklyn",
+        "zone": "South Williamsburg"
+    },
+    {
+        "locationId": "218",
+        "town": "Queens",
+        "zone": "Springfield Gardens North"
+    },
+    {
+        "locationId": "219",
+        "town": "Queens",
+        "zone": "Springfield Gardens South"
+    },
+    {
+        "locationId": "220",
+        "town": "Bronx",
+        "zone": "Spuyten Duyvil/Kingsbridge"
+    },
+    {
+        "locationId": "221",
+        "town": "Staten Island",
+        "zone": "Stapleton"
+    },
+    {
+        "locationId": "222",
+        "town": "Brooklyn",
+        "zone": "Starrett City"
+    },
+    {
+        "locationId": "223",
+        "town": "Queens",
+        "zone": "Steinway"
+    },
+    {
+        "locationId": "224",
+        "town": "Manhattan",
+        "zone": "Stuy Town/Peter Cooper Village"
+    },
+    {
+        "locationId": "225",
+        "town": "Brooklyn",
+        "zone": "Stuyvesant Heights"
+    },
+    {
+        "locationId": "226",
+        "town": "Queens",
+        "zone": "Sunnyside"
+    },
+    {
+        "locationId": "227",
+        "town": "Brooklyn",
+        "zone": "Sunset Park East"
+    },
+    {
+        "locationId": "228",
+        "town": "Brooklyn",
+        "zone": "Sunset Park West"
+    },
+    {
+        "locationId": "229",
+        "town": "Manhattan",
+        "zone": "Sutton Place/Turtle Bay North"
+    },
+    {
+        "locationId": "230",
+        "town": "Manhattan",
+        "zone": "Times Sq/Theatre District"
+    },
+    {
+        "locationId": "231",
+        "town": "Manhattan",
+        "zone": "TriBeCa/Civic Center"
+    },
+    {
+        "locationId": "232",
+        "town": "Manhattan",
+        "zone": "Two Bridges/Seward Park"
+    },
+    {
+        "locationId": "233",
+        "town": "Manhattan",
+        "zone": "UN/Turtle Bay South"
+    },
+    {
+        "locationId": "234",
+        "town": "Manhattan",
+        "zone": "Union Sq"
+    },
+    {
+        "locationId": "235",
+        "town": "Bronx",
+        "zone": "University Heights/Morris Heights"
+    },
+    {
+        "locationId": "236",
+        "town": "Manhattan",
+        "zone": "Upper East Side North"
+    },
+    {
+        "locationId": "237",
+        "town": "Manhattan",
+        "zone": "Upper East Side South"
+    },
+    {
+        "locationId": "238",
+        "town": "Manhattan",
+        "zone": "Upper West Side North"
+    },
+    {
+        "locationId": "239",
+        "town": "Manhattan",
+        "zone": "Upper West Side South"
+    },
+    {
+        "locationId": "240",
+        "town": "Bronx",
+        "zone": "Van Cortlandt Park"
+    },
+    {
+        "locationId": "241",
+        "town": "Bronx",
+        "zone": "Van Cortlandt Village"
+    },
+    {
+        "locationId": "242",
+        "town": "Bronx",
+        "zone": "Van Nest/Morris Park"
+    },
+    {
+        "locationId": "243",
+        "town": "Manhattan",
+        "zone": "Washington Heights North"
+    },
+    {
+        "locationId": "244",
+        "town": "Manhattan",
+        "zone": "Washington Heights South"
+    },
+    {
+        "locationId": "245",
+        "town": "Staten Island",
+        "zone": "West Brighton"
+    },
+    {
+        "locationId": "246",
+        "town": "Manhattan",
+        "zone": "West Chelsea/Hudson Yards"
+    },
+    {
+        "locationId": "247",
+        "town": "Bronx",
+        "zone": "West Concourse"
+    },
+    {
+        "locationId": "248",
+        "town": "Bronx",
+        "zone": "West Farms/Bronx River"
+    },
+    {
+        "locationId": "249",
+        "town": "Manhattan",
+        "zone": "West Village"
+    },
+    {
+        "locationId": "250",
+        "town": "Bronx",
+        "zone": "Westchester Village/Unionport"
+    },
+    {
+        "locationId": "251",
+        "town": "Staten Island",
+        "zone": "Westerleigh"
+    },
+    {
+        "locationId": "252",
+        "town": "Queens",
+        "zone": "Whitestone"
+    },
+    {
+        "locationId": "253",
+        "town": "Queens",
+        "zone": "Willets Point"
+    },
+    {
+        "locationId": "254",
+        "town": "Bronx",
+        "zone": "Williamsbridge/Olinville"
+    },
+    {
+        "locationId": "255",
+        "town": "Brooklyn",
+        "zone": "Williamsburg (North Side)"
+    },
+    {
+        "locationId": "256",
+        "town": "Brooklyn",
+        "zone": "Williamsburg (South Side)"
+    },
+    {
+        "locationId": "257",
+        "town": "Brooklyn",
+        "zone": "Windsor Terrace"
+    },
+    {
+        "locationId": "258",
+        "town": "Queens",
+        "zone": "Woodhaven"
+    },
+    {
+        "locationId": "259",
+        "town": "Bronx",
+        "zone": "Woodlawn/Wakefield"
+    },
+    {
+        "locationId": "260",
+        "town": "Queens",
+        "zone": "Woodside"
+    },
+    {
+        "locationId": "261",
+        "town": "Manhattan",
+        "zone": "World Trade Center"
+    },
+    {
+        "locationId": "262",
+        "town": "Manhattan",
+        "zone": "Yorkville East"
+    },
+    {
+        "locationId": "263",
+        "town": "Manhattan",
+        "zone": "Yorkville West"
+    },
+    {
+        "locationId": "264",
+        "town": "Unknown",
+        "zone": "NV"
+    },
+    {
+        "locationId": "265",
+        "town": "Unknown",
+        "zone": "NA"
+    }
+]
