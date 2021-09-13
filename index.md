@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## API Documentation
 
-You can use the [editor on GitHub](https://github.com/GDSC-NMIMS-MPSTME-Mumbai/App-Dev-Recruitment-API/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### API Endpoints
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Data: [https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/data.json](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/data.json)
+- This endpoint returns a list of JSON Objects, each of which represent a taxi trip and contain the following fields:
+  - driverId - Id of the driver
+  - customerId - Id of the customer
+  - PUDatetime - pickup datetime
+  - DODatetime - drop off datetime
+  - passengers - number of passengers
+  - tripDistance - distance coverd in that trip
+  - PULocationId - Id of pickup location
+  - DOLocationId - Id of drop off location
+  - fare - fare for the trip
+  - tax - tax charged
+  - tip - tip given by customer
 
-### Markdown
+2. Locations: [https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/locations.json](https://gdsc-nmims-mpstme-mumbai.github.io/App-Dev-Recruitment-API/locations.json)
+- This endpoint return a list of Json Object, which represent locations and contain the following fields:
+  - locationId - Id of the location
+  - town - town
+  - zone - zone
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**You can use the mentioned URLs to access the API. These endpoints only support GET requests**
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GDSC-NMIMS-MPSTME-Mumbai/App-Dev-Recruitment-API/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
